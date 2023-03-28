@@ -1,4 +1,4 @@
-# BSI_TR-02102-2_Cipher_suites
+# BSI TR-02102-2 cipher suites
 Recommended cipher suites for TLS from Bundesamt für Sicherheit in der Informationstechnik (BSI)
 
 Based upon [BSI TR-02102 Kryptographische Verfahren: Empfehlungen und Schlüssellängen][1] here specialy [Teil 2 – Verwendung von Transport Layer Security (TLS)][2] Version 2023-01
